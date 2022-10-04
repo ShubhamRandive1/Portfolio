@@ -869,6 +869,7 @@ a.fa.fa-angle-down:focus {
 
 .skills {
   margin-top: 50px;
+  margin:10px;
 }
 
 /* New skills bars */
@@ -883,6 +884,9 @@ a.fa.fa-angle-down:focus {
   list-style: none;
   font-family: 'Lato', sans-serif;
   opacity: 0;
+  margin-top: 20px;
+  margin-right: 20px;
+  
 }
 
 .skills-bar-container li {
