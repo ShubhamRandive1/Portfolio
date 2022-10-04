@@ -623,7 +623,7 @@ a.fa.fa-angle-down:focus {
     margin: 0px auto;
     padding: 20px;
     height: 200px;
-    width: 50%;
+    width: 70%;
     max-width: 650px;
 }
 
@@ -643,7 +643,7 @@ a.fa.fa-angle-down:focus {
 
 #about #tl-dr h5 {
     font-weight: 300;
-    font-size: 14px;
+    font-size: 16px;
     font-family: 'Roboto Slab', sans-serif;
     text-transform: capitalize;
     letter-spacing: 0.5px;
@@ -659,7 +659,7 @@ a.fa.fa-angle-down:focus {
     width: 50px;
     height: 50px;
     line-height: 50px;
-    font-size: 36px;
+    font-size: 38px;
     margin: 0 auto 10px;
 }
 
@@ -1330,7 +1330,7 @@ a.resume-btn:active {
 
 #portfolio {
     padding-top: 90px;
-    padding-bottom: 100px;
+    padding-bottom: 50px;
     background: #fff;
 }
 
@@ -1352,7 +1352,7 @@ a.resume-btn:active {
 
 #portfolio .section-heading {
     padding-bottom: 0px;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 }
 
 #portfolio .coming-soon {
@@ -1385,7 +1385,7 @@ a.resume-btn:active {
     -webkit-box-shadow: rgba(0, 0, 0, 0.148438) 0 1px 2px;
     box-shadow: rgba(0, 0, 0, 0.148438) 0 1px 2px;
     padding: 0;
-    margin-bottom: 10px;
+    margin-bottom: 5px;
     cursor: pointer;
     position: relative;
     overflow: hidden;
@@ -1773,7 +1773,7 @@ ul.social-buttons li a:active {
 }
 
 .list-inline>li {
-    padding: 0px !important;
+    padding: 2px !important;
 }
 
 #facebook,
